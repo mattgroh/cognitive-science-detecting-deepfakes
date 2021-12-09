@@ -1,4 +1,4 @@
-# Code and Data for Replication "Deepfake Detection by Crowds, Machines, and Machine-Informed Crowds"n
+# Code and Data for Replication "Deepfake Detection by Crowds, Machines, and Machine-Informed Crowds"
 
 You can replicate the results from the paper with the `replication-notebook-deepfake-detection-crowds-machines.ipynb` jupyter notebook.
 
